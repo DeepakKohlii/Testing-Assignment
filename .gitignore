@@ -1,0 +1,14 @@
+
+node_modules/
+
+
+*.log
+
+*.exe
+*.dll
+
+
+.DS_Store
+
+
+.idea/
